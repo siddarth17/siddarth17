@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sr88018@usc.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rm5E0cV0IYIpML7CKjzjE04_Eh5MUFeeRDeQPnxkUpw/edit?usp=sharing](https://docs.google.com/document/d/1rm5E0cV0IYIpML7CKjzjE04_Eh5MUFeeRDeQPnxkUpw/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rm5E0cV0IYIpML7CKjzjE04_Eh5MUFeeRDeQPnxkUpw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
