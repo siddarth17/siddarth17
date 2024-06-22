@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **sr88018@usc.edu**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1rm5E0cV0IYIpML7CKjzjE04_Eh5MUFeeRDeQPnxkUpw/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddarth-rudraraju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddarth-rudraraju/" height="30" width="40" /></a>
