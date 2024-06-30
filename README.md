@@ -3,7 +3,7 @@
 
 - 👯 I’m looking to collaborate on **an iOS app leveraging Core ML**
 
-- 📫 How to reach me **sr88018@usc.edu**
+- 📫 How to reach me: **sr88018@usc.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
